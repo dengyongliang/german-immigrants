@@ -123,9 +123,28 @@ header img{
 }
 .row-intro .qa select{
   margin-bottom: 10px;
-  background: #808080;
   border: none;
   color: #fff;
+  padding-left: 28px;
+  font-size: 12px;
+}
+.row-intro form .select01{
+  background: #808080 url(../img/icon/icon_08_w.png) no-repeat 5px 50%;
+}
+.row-intro form .select02{
+  background: #808080 url(../img/icon/icon_09_w.png) no-repeat 5px 50%;
+}
+.row-intro form .select03{
+  background: #808080 url(../img/icon/icon_10_w.png) no-repeat 5px 50%;
+}
+.row-intro form .select04{
+  background: #808080 url(../img/icon/icon_11_w.png) no-repeat 5px 50%;
+}
+.row-intro form .select05{
+  background: #808080 url(../img/icon/icon_12_w.png) no-repeat 5px 50%;
+}
+.row-intro form .select06{
+  background: #808080 url(../img/icon/icon_13_w.png) no-repeat 5px 50%;
 }
 .row-intro .qa button{
   width: 100%;
@@ -1440,7 +1459,7 @@ footer .cp2{
     list-style: none;
     border: 2px solid #353535;
     height: 29px;
-    line-height: 29px;
+    line-height: 26px;
     width: 130px;
     text-align: center;
     font-size: 12px;
